@@ -1,4 +1,6 @@
-# 👋 Hola, soy Cristina
+![Banner](https://github.com/user-attachments/assets/ede3d14c-c4ed-4e07-8d31-852e8a9cc7de)
+
+# 🌿 Hola, soy Cristina 
 
 Ingeniera de Montes con background en matemáticas.
 Diseño y construyo sistemas completos de IA aplicada y datos.
@@ -9,12 +11,12 @@ Actualmente construyo aplicaciones **end-to-end** que combinan:
 - Machine Learning
 - Despliegue en AWS (Lambda, S3, RDS, EC2)
 
-## 🚀 En qué estoy trabajando
+## ◽ En qué estoy trabajando
 - Desarrollo de APIs con IA y automatización de procesos
 - Integración de modelos de Machine Learning en aplicaciones reales
 - Construcción de pipelines de datos y despliegue en cloud
 
-## 🧠 Proyectos destacados
+## ◽ Proyectos destacados
 
 ### 📊 Excel Data Cleaner
 Automatización de limpieza de datos en Excel → de datos desordenados a dataset listo para análisis  
@@ -34,7 +36,7 @@ Dashboard interactivo Streamlit conectado a API propia en AWS EC2.
 Predicción ML y consultas en lenguaje natural con Gemini AI.
 Tech: Python, Streamlit, FastAPI, AWS EC2, Gemini AI
 
-## 💡 Enfoque
+## ◽ Enfoque
 Me interesa especialmente el desarrollo de soluciones de **IA aplicada a negocio**, combinando backend, datos e integración de sistemas.
 
 ## 📫 Contacto
