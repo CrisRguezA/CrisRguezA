@@ -1,7 +1,7 @@
 # 👋 Hola, soy Cristina
 
 Ingeniera de Montes con background en matemáticas.
-Diseño y construyo soluciones end-to-end de IA aplicada y datos.
+Diseño y construyo sistemas completos de IA aplicada y datos.
 
 Actualmente construyo aplicaciones **end-to-end** que combinan:
 - Desarrollo backend (Python, FastAPI)
