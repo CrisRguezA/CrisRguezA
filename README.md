@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/f25a776a-c18d-470d-b3c1-f12551b3a819" alt="banner"/>
-</p> 
-
 ## AI Engineer · Backend APIs · Data Pipelines · Applied AI
 Desarrollo soluciones de IA aplicada combinando backend, datos y Machine Learning, desde la ingesta hasta su exposición mediante APIs.
 
